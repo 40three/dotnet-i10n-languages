@@ -1,5 +1,5 @@
 # dotnet-i10n-languages
-Contains language names in all languages using cldr data. While it's easy to show a list of languages in English or in it's native name, there's no data to show all languages is a specified language. That's what this nuget package provides.
+Contains language names in all languages using cldr data. While it's easy to show a list of languages in English or with it's native name, there's no data to show all languages in a specified language. That's what this nuget package provides.
 
 # How to Use
 
